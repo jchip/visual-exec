@@ -1,0 +1,23 @@
+{
+  "name": "visual-exec",
+  "version": "0.0.1",
+  "description": "Visual shell exec",
+  "main": "lib/visual-exec.js",
+  "scripts": {},
+  "keywords": [
+    "visual",
+    "shell",
+    "exec"
+  ],
+  "files": [
+    "lib"
+  ],
+  "author": "Joel Chen <joel123@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "chalk": "^2.4.1",
+    "visual-logger": "^0.1.8",
+    "xsh": "^0.4.4"
+  }
+}
