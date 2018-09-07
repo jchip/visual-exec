@@ -17,6 +17,8 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "chalk": "^2.4.1",
+    "has-ansi": "^3.0.0",
+    "strip-ansi": "^4.0.0",
     "visual-logger": "^0.1.8",
     "xsh": "^0.4.4"
   }

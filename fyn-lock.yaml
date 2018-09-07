@@ -104,6 +104,15 @@ glob:
    minimatch: ^3.0.4
    once: ^1.3.0
    path-is-absolute: ^1.0.0
+has-ansi:
+ _:
+  ^3.0.0: 3.0.0
+ 3.0.0:
+  top: 1
+  $: sha1-Ngd+8dFfMzSEqn+neihgbxxlWzc=
+  _: 'https://registry.npmjs.org/has-ansi/-/has-ansi-3.0.0.tgz'
+  dependencies:
+   ansi-regex: ^3.0.0
 has-flag:
  _:
   ^3.0.0: 3.0.0
@@ -213,6 +222,7 @@ strip-ansi:
  _:
   ^4.0.0: 4.0.0
  4.0.0:
+  top: 1
   $: sha1-qEeQIusaw2iocTibY1JixQXuNo8=
   _: 'https://registry.npmjs.org/strip-ansi/-/strip-ansi-4.0.0.tgz'
   dependencies:
