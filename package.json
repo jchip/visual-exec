@@ -4,6 +4,10 @@
   "description": "Visual shell exec",
   "main": "lib/visual-exec.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jchip/visual-exec.git"
+  },
   "keywords": [
     "visual",
     "shell",
@@ -22,5 +26,8 @@
     "strip-ansi": "^4.0.0",
     "visual-logger": "^0.1.8",
     "xsh": "^0.4.4"
+  },
+  "prettier": {
+    "printWidth": 100
   }
 }
