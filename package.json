@@ -21,7 +21,7 @@
   "dependencies": {
     "chalk": "^4.0.0",
     "has-ansi": "^3.0.0",
-    "is-ci": "^1.2.0",
+    "ci-info": "^2.0.0",
     "strip-ansi": "^6.0.0",
     "visual-logger": "^1.1.1",
     "xsh": "^0.4.4"
