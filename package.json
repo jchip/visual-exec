@@ -19,15 +19,16 @@
   "author": "Joel Chen <joel123@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "bluebird": "^3.5.1",
-    "chalk": "^2.4.1",
+    "chalk": "^4.0.0",
     "has-ansi": "^3.0.0",
     "is-ci": "^1.2.0",
-    "strip-ansi": "^4.0.0",
-    "visual-logger": "^0.1.8",
+    "strip-ansi": "^6.0.0",
+    "visual-logger": "^1.1.1",
     "xsh": "^0.4.4"
   },
   "prettier": {
-    "printWidth": 100
+    "printWidth": 100,
+    "trailingComma": "none",
+    "arrowParens": "avoid"
   }
 }
