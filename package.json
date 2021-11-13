@@ -1,6 +1,6 @@
 {
   "name": "visual-exec",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Visual shell exec",
   "main": "lib/visual-exec.js",
   "scripts": {},
